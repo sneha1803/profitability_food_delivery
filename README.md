@@ -1,13 +1,9 @@
-# Profitability Analysis of a Food Delivery Service & Giving Recommendations to increase the Profitability #
-The Food Delivery Industry, being an ever growing competitve market, is riddled with losses even for the biggest players in the market. Therefore ensuring higher profit, not just higher revenue, is imperative to building a sustainable business model.
+# Optimizing Profitability of a Food Delivery Service: Analysis & Recommendations #
+In the rapidly exapnding, dynamic and competitive Food Delivery Industry, even major players are riddled with losses. Therefore, prioritization of profit over mere revenue is crucial for establishing a sustainable business model.
 
-A accurate & regular analysis of the business helps in indentifying the root cause of the losses incurred by the business. Simultaneously, it helps in locating opportunities for revneue growth.
+A thorough & regular business analysis helps to identify key factors contributing to operational losses & uncovers opportunities for revenue enhancement.
 
-
-I have done a cost & profitability anaylsis of the current state of the buisness . Consequently, I have made some recommendations to pull the business out of losses & increase its profits significantly.
-
-The data cleaning was done usign MS Excel & MySQL, followed by an exploratory data analysis using Python. Power BI was used to visualize the current state of affairs & also to simulate the change created by suggestions.
-Finally, a presentation summarizing the Recommendations & Their Impact was made
+My approach involved utilization of MS Excel and MySQL for data cleaning & Python for exploratory data analysis. Leveraging Power BI to visualize current business metrics and simulate the impact of strategic recommendations. Finally, crafted a compelling presentation summarizing actionable insights and potential profit increases
 
 ### Source Dataset : https://www.kaggle.com/datasets/romanniki/food-delivery-cost-and-profitability###
 
