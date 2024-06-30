@@ -14,6 +14,6 @@ My approach involved utilization of MS Excel and MySQL for data cleaning & Pytho
 
 ## Impact of Recommendations ##
 - For the Recommendations & the their impact refer to the pdf of same name
-- The profit & profit margin increase 235% & 215% respectively.
-- The Average Commission Percentage increases 66% & the Revenue per Order increases 50%.
+- The profit & profit margin increased by 235% & 215% respectively.
+- The Average Commission Percentage increase by 66% & the Revenue per Order increases by 50%.
 - Cost per Order drops by 43% & the Order Accuracy increases by 28%
