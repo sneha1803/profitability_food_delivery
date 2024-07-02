@@ -3,7 +3,9 @@ In the rapidly exapnding, dynamic and competitive Food Delivery Industry, even m
 
 A thorough & regular business analysis helps to identify key factors contributing to operational losses & uncovers opportunities for revenue enhancement.
 
-Utilized MS Excel and MySQL for data cleaning & Python for exploratory data analysis. Leveraged Power BI to visualize current business metrics and simulate the impact of strategic recommendations. Finally, Crafted a compelling presentation summarizing actionable insights and potential profit increases
+- Utilized MS Excel and MySQL for data cleaning & Python for exploratory data analysis
+- Leveraged Power BI to visualize current business metrics and simulate the impact of strategic recommendations.
+- Finally, Crafted a compelling presentation summarizing actionable insights and potential profit increases
 
 ### Source Dataset : https://www.kaggle.com/datasets/romanniki/food-delivery-cost-and-profitability
 
