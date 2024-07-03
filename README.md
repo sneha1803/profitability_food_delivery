@@ -3,7 +3,9 @@ In the rapidly exapnding, dynamic and competitive Food Delivery Industry, even m
 
 A thorough & regular business analysis helps to identify key factors contributing to operational losses & uncovers opportunities for revenue enhancement.
 
+
 ### Source Dataset : https://www.kaggle.com/datasets/romanniki/food-delivery-cost-and-profitability
+
 
 For this project, I have taken the follwing approach:
 - Utilized MS Excel and MySQL for data cleaning & Python for exploratory data analysis
@@ -12,9 +14,9 @@ For this project, I have taken the follwing approach:
 
 
 
-
 ## Profitability Analysis Dashboard 
-![image](https://github.com/sneha1803/profitability_food_delivery/assets/139860645/d5872a90-2bc3-4223-a24d-2f3b1e569423)
+![image](https://github.com/sneha1803/profitability_food_delivery/assets/139860645/efb0a509-a82e-4a7d-a1ff-324a27e7f194)
+
 
 
 ## Recommendations based on the analysis of business
