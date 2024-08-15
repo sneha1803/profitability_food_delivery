@@ -14,8 +14,12 @@ For this project, I have taken the follwing approach:
 
 
 
-## Profitability Analysis Dashboard 
+## Profitability Evaluation Dashboard
 ![image](https://github.com/user-attachments/assets/c874b61d-c2b9-4d2b-adf1-bc0974096722)
+
+## Dashboard Illustrating the Impact of Proposed Changes
+![image](https://github.com/user-attachments/assets/ac24bb12-4f98-4ab8-bd19-ff9ab9dee367)
+
 
 
 
