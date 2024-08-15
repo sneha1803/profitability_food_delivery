@@ -15,7 +15,7 @@ For this project, I have taken the follwing approach:
 
 
 ## Profitability Analysis Dashboard 
-![image](https://github.com/sneha1803/profitability_food_delivery/assets/139860645/efb0a509-a82e-4a7d-a1ff-324a27e7f194)
+![image](https://github.com/user-attachments/assets/c874b61d-c2b9-4d2b-adf1-bc0974096722)
 
 
 
