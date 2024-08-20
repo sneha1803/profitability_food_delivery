@@ -1,5 +1,5 @@
 # Optimizing Profitability of a Food Delivery Service: Analysis & Recommendations 
-In the rapidly exapnding, dynamic and competitive Food Delivery Industry, even major players are riddled with losses. Therefore, prioritization of profit over mere revenue is crucial for establishing a sustainable business model.
+In the rapidly exapnding, dynamic and competitive Food Delivery Industry, where even the major players are riddled with losses. Prioritization of profit over mere revenue is crucial for establishing a sustainable business model.
 
 A thorough & regular business analysis helps to identify key factors contributing to operational losses & uncovers opportunities for revenue enhancement.
 
