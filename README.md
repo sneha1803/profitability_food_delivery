@@ -12,10 +12,8 @@ For this project, I have taken the follwing approach:
 - Leveraged Power BI to visualize current business metrics and simulate the impact of strategic recommendations.
 - Finally, Crafted a compelling presentation summarizing actionable insights and potential profit increases
 
-
-
 ## Profitability Evaluation Dashboard
-![image](https://github.com/user-attachments/assets/42bcf0f5-3ca8-431a-a418-dab521d95796)
+![image](https://github.com/user-attachments/assets/ac12c9e6-36ca-4ef0-8164-70af7c01df4a)
 
 ## Dashboard Illustrating the Impact of Proposed Changes
 ![image](https://github.com/user-attachments/assets/99644460-e6ec-4a3a-88d1-d6a9b620e9c3)
