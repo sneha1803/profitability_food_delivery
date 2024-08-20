@@ -1,14 +1,13 @@
 # Optimizing Profitability of a Food Delivery Service: Analysis & Recommendations 
-In the rapidly exapnding, dynamic and competitive Food Delivery Industry, where even the major players are riddled with losses. Prioritization of profit over mere revenue is crucial for establishing a sustainable business model.
+In the rapidly expanding and competitive Food Delivery Industry, where even the major players are riddled with losses, prioritization of profit over mere revenue is crucial for establishing a sustainable business model.
 
 A thorough & regular business analysis helps to identify key factors contributing to operational losses & uncovers opportunities for revenue enhancement.
 
-
-## The Challenege: 
+## The Challenege 
 The purpose of this analysis is to significantly improve the profitability of the business by meticulously identifying and addressing key issues that are impacting both revenue and costs.
 The ultimate goal of this analysis is to create actionable insights that lead to sustainable growth and increased profitability. By implementing the identified strategies and continuously monitoring their effectiveness, the business can achieve a more favorable financial position, ensuring long-term success and stability in an increasingly competitive market.
 
-## **Key Performance Indicators (KPIs)**:
+## Key Performance Indicators (KPIs)
 1. **Order Accuracy**: Measures the percentage of orders delivered without errors. High order accuracy indicates reliable service and customer satisfaction.
 2. **Delivery Time**: Tracks the time taken from order placement to delivery. Faster delivery times can enhance customer satisfaction and loyalty.
 3. **Average Order Value (AOV)**: The average amount spent per order. Increasing AOV can boost revenue and profit margins.
