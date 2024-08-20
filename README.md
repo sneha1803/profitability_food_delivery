@@ -20,9 +20,6 @@ The ultimate goal of this analysis is to create actionable insights that lead to
 ## Profitability Evaluation Dashboard
 ![image](https://github.com/user-attachments/assets/ac12c9e6-36ca-4ef0-8164-70af7c01df4a)
 
-## Dashboard Illustrating the Impact of Proposed Changes
-![image](https://github.com/user-attachments/assets/99644460-e6ec-4a3a-88d1-d6a9b620e9c3)
-
 ## Summary of Insights
 1. We are currently incurring a loss of ₹34,000.
 2. Out of the 1,000 restaurants on our platform, 584 are operating at a loss.
@@ -41,3 +38,6 @@ The ultimate goal of this analysis is to create actionable insights that lead to
 - The profit & profit margin have increased by 235% & 215% respectively.
 - The Average Commission Percentage has risen by 66% & the Revenue per Order has increased by 50%.
 - Cost per Order dropped by 43% & the Order Accuracy has improved by 28%
+
+## Dashboard Illustrating the Impact of Proposed Changes
+![image](https://github.com/user-attachments/assets/99644460-e6ec-4a3a-88d1-d6a9b620e9c3)
