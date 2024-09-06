@@ -26,12 +26,12 @@ The ultimate goal of this analysis is to create actionable insights that lead to
 
 
 ## Summary of Insights
-1. We are currently incurring a loss of ₹34,000.
-2. Out of the 1,000 restaurants on our platform, 584 are operating at a loss.
-3. The average cost per order is ₹161.
-4. Discounts account for 46% of our total expenses.
-5. The new user discount results in an average loss of ₹120 per order, followed by the basic 10% discount as the next highest loss-making offer.
-6. Our average commission fee is 19.75%, which is on the lower end of the industry standard range of 15-30%.
+1. We are facing a significant financial challenge with a current loss of ₹34,000.
+2. Alarmingly, 584 out of our 1,000 partner restaurants are operating at a loss.
+3. Our average cost per order stands at ₹161.
+4. Discounts consume a staggering 46% of our total expenses.
+5. The new user discount alone results in an average loss of ₹120 per order, followed closely by the basic 10% discount.
+6. Despite our efforts, our average commission fee is 19.75%, which is on the lower end of the industry standard range of 15-30%.
 
 
 ## Recommendations based on the analysis of business
