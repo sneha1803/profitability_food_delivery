@@ -14,8 +14,8 @@ The purpose of my analysis is to significantly improve the profitability of our 
 3. **Cost Per Order**: The total cost incurred to fulfill an order including costs for delivery, packaging, payment platforms and labor. Lowering this cost improves profit margins, reflecting efficient operational management.
 4. **Commission Fee**: The percentage of order value taken by the platform as a fee. This affects profitability for both the delivery service and partnering restaurants.
 5. **Revenue**: The total income generated from all orders. Increasing revenue reflects business growth and market demand, crucial for long-term success.
-6. **Profit**:The financial gain after subtracting all operational costs from the total revenue. It indicates the efficiency and sustainability of the delivery service.
-7. **Profit Margin**: The percentage of total revenue that is profit. A higher profit margin indicates efficient and profitable delivery operations, essential for business sustainability.
+6. **Profit**:The financial gain after subtracting all operational costs from the total revenue. A higher profit indicates efficient and profitable delivery operations, essential for business sustainability
+7. **Profit Margin**: The percentage of total revenue that is profit. Showcasing how well we optimize our operations. This, in turn, strengthens our financial health, allowing us to reinvest in growth opportunities, enhance our competitive edge, and ensure long-term stability in the market.
 
 
 ### Source Dataset : https://www.kaggle.com/datasets/romanniki/food-delivery-cost-and-profitability
