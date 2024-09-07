@@ -1,21 +1,21 @@
 # Optimizing Profitability of a Food Delivery Service: Analysis & Recommendations 
 In the rapidly expanding and competitive Food Delivery Industry, where even the major players are riddled with losses, prioritization of profit over mere revenue is crucial for establishing a sustainable business model.
 
-A thorough & regular business analysis helps to identify key factors contributing to operational losses & uncovers opportunities for revenue enhancement.
+By continuously monitoring our performance and implementing the identified strategies, we can create a cycle of improvement, allows us to stay ahead of the competition and adapt to changing market conditions. Ensuring that our business remains viable and resilient in the long run.
 
 
 ## The Challenege 
-The purpose of this analysis is to significantly improve the profitability of the business by meticulously identifying and addressing key issues that are impacting both revenue and costs.
-The ultimate goal of this analysis is to create actionable insights that lead to sustainable growth and increased profitability. By implementing the identified strategies and continuously monitoring their effectiveness, the business can achieve a more favorable financial position, ensuring long-term success and stability in an increasingly competitive market.
+The purpose of my analysis is to significantly improve the profitability of our business by meticulously identifying and addressing key issues that are impacting both our revenue and costs. My ultimate goal is to create actionable insights that lead to sustainable growth and increased profitability. By implementing the identified strategies and continuously monitoring their effectiveness, we can achieve a more favorable financial position, ensuring long-term success and stability in an increasingly competitive market.
 
 
 ## Key Performance Indicators (KPIs)
-1. **Order Accuracy**: Measures the percentage of orders delivered without errors. High order accuracy indicates reliable service and customer satisfaction.
-2. **Delivery Time**: Tracks the time taken from order placement to delivery. Faster delivery times can enhance customer satisfaction and loyalty.
-3. **Average Order Value (AOV)**: The average amount spent per order. Increasing AOV can boost revenue and profit margins.
-4. **Cost Per Order**: The total cost incurred to fulfill an order, including delivery, packaging, and labor. Lowering this cost can improve profit margins.
-5. **Commission Fee**: The percentage of order value taken by the platform as a fee. This impacts profitability for both the delivery service and partnering restaurants.
-6. **Profit Margin**: The percentage of total revenue that is profit. It reflects the efficiency and profitability of the delivery operations.
+1. **Order Accuracy**: Measures the percentage of orders delivered without errors. High order accuracy indicates reliable serive leading to customer satisfaction and loyalty.
+2. **Average Order Value (AOV)**: The average amount of money spent by a customer each time they place a order. Increasing AOV boosts revenue and profit margins, indicating successful upselling and cross-selling strategies.
+3. **Cost Per Order**: The total cost incurred to fulfill an order including costs for delivery, packaging, payment platforms and labor. Lowering this cost improves profit margins, reflecting efficient operational management.
+4. **Commission Fee**: The percentage of order value taken by the platform as a fee. This affects profitability for both the delivery service and partnering restaurants.
+5. **Revenue**: The total income generated from all orders. Increasing revenue reflects business growth and market demand, crucial for long-term success.
+6. **Profit**:The financial gain after subtracting all operational costs from the total revenue. It indicates the efficiency and sustainability of the delivery service.
+7. **Profit Margin**: The percentage of total revenue that is profit. A higher profit margin indicates efficient and profitable delivery operations, essential for business sustainability.
 
 
 ### Source Dataset : https://www.kaggle.com/datasets/romanniki/food-delivery-cost-and-profitability
@@ -31,7 +31,7 @@ The ultimate goal of this analysis is to create actionable insights that lead to
 3. Our average cost per order stands at ₹161.
 4. Discounts consume a staggering 46% of our total expenses.
 5. The new user discount alone results in an average loss of ₹120 per order, followed closely by the basic 10% discount.
-6. Despite our efforts, our average commission fee is 19.75%, which is on the lower end of the industry standard range of 15-30%.
+6. The average commission fee, charged to restaurants on platform, is 19.75%, which is on the lower end of the industry standard range of 15-30%.
 
 
 ## Recommendations based on the analysis of business
