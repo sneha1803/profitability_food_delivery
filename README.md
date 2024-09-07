@@ -22,7 +22,7 @@ The purpose of my analysis is to significantly improve the profitability of our 
 
 
 ## Profitability Evaluation Dashboard
-![image](https://github.com/user-attachments/assets/ac12c9e6-36ca-4ef0-8164-70af7c01df4a)
+![image](https://github.com/user-attachments/assets/54422ee2-9e17-441d-8903-d5117cd1d2c3)
 
 
 ## Summary of Insights
@@ -36,16 +36,16 @@ The purpose of my analysis is to significantly improve the profitability of our 
 
 ## Recommendations based on the analysis of business
 1. Offboard all restuarants with a negative profit margin.
-2. Set a minimum commission fee of 20% on all restaurants
+2. Set a minimum commission fee of 10% on all restaurants
 3. Remove the 10% discount offer.
 
  
 ## Impact of Recommendations
 - For detailed explanations of the Recommendations & Their Impact on KPIs and metrics, please refer to the corresponding PDF.
-- The profit & profit margin have increased by 235% & 215% respectively.
-- The Average Commission Percentage has risen by 66% & the Revenue per Order has increased by 50%.
-- Cost per Order dropped by 43% & the Order Accuracy has improved by 28%
+- Our business has seen incredible growth, with our profits **tripling** and commission percentages rising by **66%**, leading to a **45%** increase in revenue.
+- The reduction in cost per order by **Rs. 56.5** and a **20%** improvement in order accuracy have significantly enhanced operational efficiency and customer satisfaction.
 
 
 ## Dashboard Illustrating the Impact of Proposed Changes
-![image](https://github.com/user-attachments/assets/99644460-e6ec-4a3a-88d1-d6a9b620e9c3)
+![image](https://github.com/user-attachments/assets/cdfb765b-24ec-4503-8173-8a6d0120195d)
+
