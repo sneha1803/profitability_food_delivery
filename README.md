@@ -42,8 +42,8 @@ The purpose of my analysis is to significantly improve the profitability of our 
  
 ## Impact of Recommendations
 - For detailed explanations of the Recommendations & Their Impact on KPIs and metrics, please refer to the corresponding PDF.
-- Our business has seen incredible growth, with our profits **tripling** and commission percentages rising by **66%**, leading to a **45%** increase in revenue.
-- The reduction in cost per order by **Rs. 56.5** and a **20%** improvement in order accuracy have significantly enhanced operational efficiency and customer satisfaction.
+- Our business has seen incredible growth, with our profits more than **doubling** and commission percentages rising by **6%**.
+- The reduction in cost per order by **Rs. 56.5** and a **14%** improvement in order accuracy have significantly enhanced operational efficiency and customer satisfaction.
 
 
 ## Dashboard Illustrating the Impact of Proposed Changes
