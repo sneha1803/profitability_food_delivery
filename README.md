@@ -4,7 +4,7 @@ In the rapidly expanding and competitive Food Delivery Industry, where even the 
 By continuously monitoring our performance and implementing the identified strategies, we can create a cycle of improvement, allows us to stay ahead of the competition and adapt to changing market conditions. Ensuring that our business remains viable and resilient in the long run.
 
 
-## The Challenege 
+## The Challenge 
 The purpose of my analysis is to significantly improve the profitability of our business by meticulously identifying and addressing key issues that are impacting both our revenue and costs. My ultimate goal is to create actionable insights that lead to sustainable growth and increased profitability. By implementing the identified strategies and continuously monitoring their effectiveness, we can achieve a more favorable financial position, ensuring long-term success and stability in an increasingly competitive market.
 
 
