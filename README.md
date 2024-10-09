@@ -27,7 +27,7 @@ The purpose of my analysis is to significantly improve the profitability of our 
 
 ## Summary of Insights
 1. We are currently operating loss of ₹34,100.
-2. Out of our 621 partner restaurants, we are experiencing a loss with 391 of them
+2. 63% of Our Restaurant Partnerships Are Unprofitable. Out of our 621 partner restaurants, only 225 generate profits for us.
 3. Our average cost per order stands at ₹161.
 4. Discounts consume a staggering 46% of our total expenses.
 5. The new user discount alone results in a loss of ₹22833, followed by the basic 10% discount, with an average loss of ₹14,115.
